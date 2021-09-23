@@ -1,7 +1,7 @@
 # RoboForm
 Author: Yubin Wang, Yong Du @ ANCL-Northeastern Univ.        
 
-The testbed conclude:      
+The testbed concludes:      
 1.turtlebot3-burger    
 2.Ubuntu 18.04        
 3.ROS2 Dashing       
@@ -14,4 +14,4 @@ After setting up environment, please run:
 ```
 ros2 run turtlebot3_example turtlebot3_position_control
 ```
-See more details, please relocate to my (tutorials)[https://yubinwang11.github.io//posts/2021/09/roboform].
+See more details, please relocate to my tutorials[https://yubinwang11.github.io//posts/2021/09/roboform].
