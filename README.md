@@ -1,12 +1,13 @@
 # RoboForm
-Author: Yubin Wang, Yong Du @ ANCL-Northeastern Univ.
-The testbed conclude:  
-1.turtlebot3-burger
-2.Ubuntu 18.04     
-3.ROS2 Dashing    
-4.Optitrack  
-5.ros1_bridge   
-6.ros_vrpn_client   
+Author: Yubin Wang, Yong Du @ ANCL-Northeastern Univ.        
+
+The testbed conclude:      
+1.turtlebot3-burger    
+2.Ubuntu 18.04        
+3.ROS2 Dashing       
+4.Optitrack     
+5.ros1_bridge      
+6.ros_vrpn_client      
 ...
 After setting up environment, please run:    
 ```
